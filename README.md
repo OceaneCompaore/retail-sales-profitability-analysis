@@ -289,6 +289,16 @@ Based on the analysis:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-`SQL` · `BigQuery` · `Data Cleaning` · `Data Validation` · `Data Transformation` · `Exploratory Data Analysis` · `Business Analysis` · `Profitability Analysis` · `Data Visualization` · `Looker Studio` · `Data Storytelling`
+SQL • BigQuery • Data Cleaning • Data Validation • Data Transformation • Exploratory Data Analysis • Business Analysis • Profitability Analysis • Data Visualization • Looker Studio • Data Storytelling
+
+---
+
+## Feedback Welcome
+
+This project is part of my data analytics portfolio and ongoing learning journey.
+
+Constructive feedback is welcome, particularly on the SQL analysis, data preparation process, dashboard design, business insights, and recommendations.
+
+If you identify an area that could be improved or have a different interpretation of the results, feel free to start a discussion.
